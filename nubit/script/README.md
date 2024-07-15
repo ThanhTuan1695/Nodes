@@ -1,4 +1,4 @@
-# Nubit Light Node
+# Nubit Light Node With One Liner
 
 ![alt text](https://alpha.nubit.org/static/media/logo.1ddf03d93669039bc623.png)
 
