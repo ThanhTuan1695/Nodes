@@ -68,7 +68,7 @@ cat $home/nubit-node/public_key.txt
 ```
 # Run with new wallet.
 
-In case, you would like to run with new wallet. At step was asking for old wallet. Just hit `enter`. the script will be following all the step in official documentation. 
+In case, you would like to run with new wallet. At step was asking for old wallet. Just hit `enter`. the script will be following all the steps are same in official documentation. 
 
 # Error during running. 
 
