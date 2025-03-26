@@ -123,6 +123,10 @@ go to https://faucet-2.seismicdev.net/ and then enter the address show on image 
 
 wait 15-30 seconds then hit enter and enjoys the rest. 
 
+you have done when you see 
+
+![alt text](./images/image6.png)
+
 # Interact with deploy contract
 
 ## step 1
@@ -162,6 +166,10 @@ go to https://faucet-2.seismicdev.net/ and then enter the address show on image 
 ![alt text](./images/image5.png)
 
 wait 15-30 seconds then hit enter and enjoys the rest. 
+
+you have done when you see 
+
+![alt text](./images/image7.png)
 
 when you come to this place. You are doing the good job.
 
