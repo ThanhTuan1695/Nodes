@@ -198,10 +198,17 @@ Take the screenshot both 2 Deploy and interact an encrypted contract.  Then post
 # My Info:
 
 X: https://x.com/leiz95
+
 Github: ThanhTuan1695
+
 Telegram: leiz95
+
 My Team: https://t.me/t4eresearch
+
 Discord: le12_12
+
 -----
 Developer and security researcher
+
 Technical Support and Moderator in Nubit and Nero Chain
+
