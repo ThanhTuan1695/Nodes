@@ -173,6 +173,34 @@ you have done when you see
 
 when you come to this place. You are doing the good job.
 
+
+# Additional links Seismic Devnet:
+```
+Network Name: Seismic devnet
+
+Currency Symbol: ETH
+
+Chain ID: 5124
+
+RPC URL (HTTP): https://node-2.seismicdev.net/rpc
+
+RPC URL (WebSocket): wss://node-2.seismicdev.net/ws
+
+Explorer: https://explorer-2.seismicdev.net
+
+Faucet: https://faucet-2.seismicdev.net
+
+Starter Repo: https://github.com/SeismicSystems/seismic-starter
+```
+
 Take the screenshot both 2 Deploy and interact an encrypted contract.  Then post it on it X. https://x.com/leiz95/status/1904779356053946544
 
-<3 Happy Hacking!!! <3
+# My Info:
+
+X: https://x.com/leiz95
+Github: ThanhTuan1695
+Telegram: leiz95
+My Team: https://t.me/t4eresearch
+-----
+Developer and security researcher
+Technical Support and Moderator in Nubit and Nero Chain
