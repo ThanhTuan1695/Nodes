@@ -2,28 +2,34 @@
 
 ![alt text](https://github.com/pot4e/Nodes/blob/main/Images/lg-t4e.png?raw=true)
 
-Chúng tôi là một nhóm có niềm đam mê về công nghệ blockchain và phát triển ứng dụng dựa trên nền tảng này.
+We are a passionate group focused on blockchain technology and building applications on top of it.
 
-Mục tiêu chính của chúng tôi tại repo này là đơn giản hóa quá trình triển khai và quản lý node cho cộng đồng, từ người mới bắt đầu đến những người có kinh nghiệm.
+Our main goal with this repository is to **simplify the process of deploying and managing nodes** for the community — from beginners to experienced users.
 
-## Mục tiêu
+## Mission
 
-Repo này là một tài nguyên quan trọng, cung cấp hướng dẫn chi tiết và đơn giản nhất để bắt đầu chạy node một cách hiệu quả nhất. Chúng tôi không chỉ cung cấp các hướng dẫn cơ bản để cài đặt node, mà còn tập trung vào các phương pháp quản lý và bảo trì node một cách hiệu quả.
+This repository serves as a valuable resource, offering **detailed and easy-to-follow instructions** to help users set up and manage their nodes efficiently. We not only provide basic setup steps, but also focus on **node maintenance and management best practices**.
 
-## Những điểm nổi bật của repo Nodes của chúng tôi bao gồm:
+## Key Features of Our Nodes Repository:
 
-**Hướng dẫn chi tiết**: Chúng tôi cung cấp các hướng dẫn từng bước, đi kèm với các hình ảnh minh họa và lời giải thích dễ hiểu, giúp người dùng dễ dàng triển khai node mà không cần kiến thức kỹ thuật sâu.
+**🔧 Step-by-Step Guides**  
+We provide clear, illustrated, beginner-friendly instructions that help users deploy nodes without needing deep technical expertise.
 
-**Tự động hóa**: Chúng tôi đã tích hợp các kịch bản tự động hóa để giảm thiểu công việc thủ công. Người dùng có thể dễ dàng cài đặt và cập nhật node của mình thông qua các tập lệnh và script đã được thiết lập sẵn.
+**⚙️ Automation Scripts**  
+We’ve integrated automation tools and scripts to minimize manual work. Users can easily install and update their nodes through pre-configured scripts.
 
-**Hỗ trợ cộng đồng**: Chúng tôi luôn sẵn lòng hỗ trợ và giải đáp mọi thắc mắc từ cộng đồng. Repo của chúng tôi không chỉ là nơi cung cấp tài liệu, mà còn là một diễn đàn nơi mọi người có thể chia sẻ ý kiến, gặp gỡ và hỗ trợ lẫn nhau.
+**🤝 Community Support**  
+This repo is not just about documentation — it’s also a space for community members to ask questions, share knowledge, and support each other.
 
-**Liên tục cập nhật**: Chúng tôi cam kết cập nhật thường xuyên để đảm bảo rằng người dùng luôn có được các hướng dẫn và công cụ mới nhất để quản lý node của mình.
+**🛠️ Regular Updates**  
+We are committed to keeping everything up to date, ensuring that users always have the latest tools and information for managing their nodes.
 
-Với Team T4E, việc chạy và quản lý node sẽ trở nên đơn giản và dễ dàng hơn bao giờ hết. 
+With **Team T4E**, running and managing nodes has never been easier.
 
-Hãy tham gia cùng chúng tôi và khám phá sức mạnh của blockchain!
+Join us and explore the power of blockchain together!
 
-## Community của chúng tôi
-telegram: https://t.me/t4eresearch
-Nếu như bạn cần sự giúp đỡ muốn giúp đỡ mọi người. Chúng tôi luôn chào đón.
+## Our Community
+
+📢 Telegram: [https://t.me/t4eresearch](https://t.me/t4eresearch)
+
+Whether you need help or want to contribute — we always welcome new members!
